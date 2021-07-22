@@ -29,5 +29,5 @@ Expected Inputs
 | repo-token    | Github repo token                                                      |    No    |
 | label         | label that triggers the the whole action                               |    No    |
 | column        | destination column                                                     |    No    |
-| remove-label  | label to remove when a card has been removed to the destination column |    Yes   |
+| remove-label  | label to remove once a card has been moved to the destination column   |    Yes   |
 
